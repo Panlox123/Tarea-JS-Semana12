@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tarea-JS-Semana12/static/css/main.5bcdf75c.css",
+    "main.js": "/Tarea-JS-Semana12/static/js/main.03a57cd6.js",
+    "static/js/453.4901adfe.chunk.js": "/Tarea-JS-Semana12/static/js/453.4901adfe.chunk.js",
+    "index.html": "/Tarea-JS-Semana12/index.html",
+    "main.5bcdf75c.css.map": "/Tarea-JS-Semana12/static/css/main.5bcdf75c.css.map",
+    "main.03a57cd6.js.map": "/Tarea-JS-Semana12/static/js/main.03a57cd6.js.map",
+    "453.4901adfe.chunk.js.map": "/Tarea-JS-Semana12/static/js/453.4901adfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bcdf75c.css",
+    "static/js/main.03a57cd6.js"
+  ]
+}
